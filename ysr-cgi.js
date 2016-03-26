@@ -93,7 +93,7 @@ var querystring = require('querystring'),
 							onClose: this._onClose,
 							onError: this._onError,
 
-							apikey: 'c189abe5-3d40-4870-bbe7-5a9a6f3dfa47'
+							apikey: 'YOUR-OWN-YANDEX-API-KEY'
 
 						});
 						service.connect();
