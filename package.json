@@ -1,0 +1,15 @@
+{
+  "name": "ysr-cgi",
+  "version": "0.0.3",
+  "description": "AJAX CGI for yandex-recognizer",
+  "main": "ysr-cgi.js",
+  "keywords": [
+    "CGI",
+    "speech-recognition"
+  ],
+  "dependencies": {
+    "yandex-recognizer": "~0.2.2"
+  },
+  "author": "Jungle Software",
+  "license": "ISC"
+}
